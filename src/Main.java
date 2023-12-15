@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hi");
         System.out.println("Push");
         System.out.println("no bye");
+        //weigfiuweuagbfiawegifbsilafbsjdhBkjbnsdK
+        System.out.println("Hello World * 2");
     }
 }
