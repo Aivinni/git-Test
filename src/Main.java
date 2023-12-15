@@ -11,5 +11,8 @@ public class Main {
 
         System.out.println("aivin is smelly");
 
+        System.out.println("maggie");
+        System.out.println();
+
     }
 }
