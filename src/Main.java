@@ -7,6 +7,7 @@ public class Main {
         //weigfiuweuagbfiawegifbsilafbsjdhBkjbnsdK
         System.out.println("Hello World * 2");
 
+        System.out.println("HHHHHH");
 
         System.out.println("Hello World");
     }
