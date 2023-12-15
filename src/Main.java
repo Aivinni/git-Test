@@ -7,8 +7,9 @@ public class Main {
         //weigfiuweuagbfiawegifbsilafbsjdhBkjbnsdK
         System.out.println("Hello World * 2");
 
-        System.out.println("HHHHHH");
+        System.out.println("aivin is smelly yes yes");
 
-        System.out.println("Hello World");
+        System.out.println("aivin is smelly");
+
     }
 }
